@@ -1,0 +1,41 @@
+Modify the birthday website into a beautiful, multi-page interactive experience called “ANUVERSE 💜”.
+
+CRITICAL NAVIGATION REQUIREMENT:
+Do NOT make this a scrolling website. Do NOT use long vertical sections as the main navigation. Each chapter must be a separate full-screen page or screen. The visitor advances by clicking buttons such as “Next”, “Open”, “Play” and “Continue”. Add a working “Back” button on every page after the first.
+
+Use React state-based page navigation or separate React components for each screen. Keep everything in the same app and preserve the current route if a working Replit project already exists.
+
+DESIGN:
+Dreamy purple and lavender night sky, glowing moon, tiny twinkling stars, floating particles, butterflies, soft gradients, elegant typography and smooth page transitions. Keep the aesthetic consistent while giving every page its own layout.
+
+CREATE THESE SEVEN PAGES:
+
+1. WELCOME: Magical starry background, “A little surprise awaits you, Anu…” and an animated “ENTER MY UNIVERSE” button.
+
+2. BIRTHDAY REVEAL: Dramatic “HAPPY BIRTHDAY, ANU!” reveal, beautiful birthday wishes, confetti and a “Continue” button.
+
+3. CHAOS CORNER: Funny affectionate sibling roasts, random joke generator and interactive joke button.
+
+4. PLAY TIME: A genuinely playable mini-game where the user catches falling stars and gifts. Include a timer, score, touch controls, desktop controls, win/lose states and replay. Add a short sibling quiz as a second game.
+
+5. SECRET LETTER: A clickable glowing envelope that opens into a heartfelt, editable birthday letter from her brother. Include a close/back control.
+
+6. MAKE A WISH: Interactive birthday cake with candles that can be clicked, a “MAKE A WISH” button, confetti and a celebration animation.
+
+7. FINAL SURPRISE: A calm purple galaxy, emotional final message from her brother, optional music controls and a “REPLAY EVERYTHING” button.
+
+FUNCTIONAL REQUIREMENTS:
+- Every Next, Back, Open, Play, Close and Replay button must work.
+- Display one main page at a time; do not require scrolling to reach the next chapter.
+- Use smooth transitions between pages.
+- Make it mobile-friendly and visually polished.
+- Allow navigation between pages without losing game scores unnecessarily.
+- Include a simple page indicator such as “3 / 7”.
+- Keep the sister's name, quiz questions, jokes and letter editable.
+- Support a local birthday-music.mp3 file. If the provided Suno link cannot play directly as audio, provide a separate “Listen on Suno” link.
+- No login, payment or external database.
+- Do not invent Anu's age or personal memories.
+- Keep the relationship strictly brother-sister.
+- Test all navigation, game interactions and responsive layouts.
+
+The result should feel like an interactive magical storybook with separate click-to-open pages, beautiful animations, games, humour, birthday surprises and a heartfelt ending. The navigation must be click-based, not scroll-based.
