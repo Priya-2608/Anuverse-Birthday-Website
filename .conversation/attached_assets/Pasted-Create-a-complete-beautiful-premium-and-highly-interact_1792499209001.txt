@@ -1,0 +1,195 @@
+Create a complete, beautiful, premium and highly interactive birthday website called “ANUVERSE 💜 — A LITTLE WORLD MADE JUST FOR YOU”.
+
+This website is a special birthday gift from a brother to his younger sister, Anu. The goal is to combine a dreamy anniversary-style aesthetic, cinematic scrolling, heartfelt letters, funny sibling moments, interactive games, hidden surprises, birthday animations and a memorable emotional ending.
+
+The website must feel personal, magical, playful and beautifully designed — not like a generic birthday template.
+
+IMPORTANT: Build a continuous scrolling experience with multiple full-screen scenes. Do not use a dashboard as the main layout. The visitor should naturally scroll from one scene to the next, with each section feeling like a new chapter in a magical story.
+
+## 1. VISUAL IDENTITY
+
+Use a dreamy purple and lavender universe:
+- Midnight-purple backgrounds, lavender gradients and glowing moons.
+- Tiny twinkling stars, floating particles, butterflies and gentle sparkles.
+- Glassmorphism panels, elegant typography and soft glowing text.
+- Beautiful envelope, gift box, moon and cake illustrations.
+- Cinematic transitions, subtle parallax and scroll-triggered reveals.
+- A mixture of peaceful aesthetic scenes and playful interactive moments.
+
+Keep the design polished, lightweight, mobile-first and responsive. Every section should have its own composition while maintaining the same visual identity.
+
+## 2. OPENING SCENE — A LITTLE MAGIC ✨
+
+Create a full-screen midnight-purple sky with a glowing moon, slowly moving stars and soft lavender clouds.
+
+Display one line at a time:
+
+“Some people make ordinary days feel special…”
+
+Pause briefly, then reveal:
+
+“Today, this little universe belongs to one special person.”
+
+Finally show:
+
+“HAPPY BIRTHDAY, ANU 💜”
+
+Add a glowing “ENTER YOUR UNIVERSE” button that smoothly scrolls to the next scene.
+
+Include subtle ambient animations and a visible scroll indicator.
+
+## 3. THE STORY UNFOLDS — SCROLLING EXPERIENCE 🌙
+
+Create a beautiful continuous vertical story with at least eight distinct scenes.
+
+As the user scrolls:
+- Background colours and lighting gradually change.
+- Stars move at different depths to create a parallax effect.
+- Text and illustrations appear with smooth reveal animations.
+- Small interactive objects appear throughout the journey.
+- A discreet progress indicator shows how far the visitor has travelled.
+
+Avoid repeating the same card layout in every section. Use different visual compositions, spacing and animations to make each chapter feel unique.
+
+## 4. THE SIBLING CHAOS ZONE 😂
+
+Suddenly change the peaceful atmosphere into a playful purple comedy scene.
+
+Display animated messages:
+- “Birthday update installed successfully.”
+- “Drama levels: still questionable.”
+- “Annoying everyone: lifetime subscription activated.”
+- “Official title: Queen of Chaos 👑”
+
+Add a “Reveal Another Roast” button that displays a new random, affectionate birthday joke each time it is clicked.
+
+Include funny pop-up-style messages and little animated stickers. Keep the humour loving and suitable for a brother and sister.
+
+## 5. INTERACTIVE MINI-GAMES 🎮
+
+Blend three fully playable mini-games naturally into the scrolling story.
+
+GAME A — CATCH THE STARS
+The player has 20 seconds to catch falling stars and gifts. Include a timer, score, increasing difficulty, keyboard and touch controls, and a replay button.
+
+GAME B — THE SIBLING QUIZ
+Create five funny, editable multiple-choice questions about sibling chaos. Show the score, playful reactions and a funny result title.
+
+GAME C — UNLOCK THE MYSTERY GIFT
+Display three beautiful gift boxes. Each box opens with an animation and reveals a different joke, birthday surprise or heartfelt note.
+
+Allow visitors to skip any game and continue scrolling. Do not force them to complete every challenge to reach the birthday message.
+
+## 6. HIDDEN LITTLE SURPRISES 🦋
+
+Scatter tiny clickable stars, butterflies, sparkles and hidden icons throughout the website.
+
+When clicked, they reveal small surprises such as:
+- A funny sibling joke.
+- A cute animated message.
+- A secret birthday wish.
+- A virtual award certificate.
+- A special message from her brother.
+
+Add a simple hidden surprise counter. Make these elements discoverable but never necessary for completing the website.
+
+## 7. A LETTER JUST FOR ANU 💌
+
+Transition into a calm lavender scene with a glowing envelope floating beneath the moon.
+
+Display:
+
+“Not every feeling fits inside a joke…”
+
+Invite the visitor to tap the envelope. Animate it opening and reveal a beautifully formatted letter, appearing line by line.
+
+Use this starter message:
+
+“Happy Birthday, my Thangachi! 💜
+
+I know I spend plenty of time teasing you, making fun of you and probably annoying you more than necessary. 😂 But behind all those jokes, I genuinely wish the very best for you.
+
+May your days be filled with happiness, your dreams take you to beautiful places, and your life give you countless reasons to smile.
+
+No matter how much we argue over silly things, I will always wish to see you happy.
+
+And don't get too emotional reading this. You still have to tolerate your annoying brother after today. 😭😂
+
+Happy Birthday, Anu. Stay happy, keep smiling and keep being your wonderful self.
+
+With lots of sibling love,
+Your favourite annoying brother 💜”
+
+Make the letter fully editable so her brother can personalise it. Do not invent real childhood memories or personal details.
+
+## 8. THE MAKE-A-WISH SCENE 🎂
+
+Create a gorgeous birthday cake with glowing candles, delicate lavender decorations and floating stars.
+
+Allow the visitor to tap individual candles to light them. Add a “MAKE A WISH” button.
+
+When pressed:
+- Animate the candles and cake.
+- Trigger a beautiful confetti celebration.
+- Fill the scene with shooting stars, glowing particles and floating birthday wishes.
+- Display “THE UNIVERSE IS CELEBRATING YOU, ANU! 💜”
+
+Include a replayable cake interaction and an accessible skip option.
+
+## 9. BACKGROUND MUSIC 🎵
+
+Add an elegant, unobtrusive play/pause music button that stays available throughout the experience.
+
+Selected song:
+https://suno.com/s/9oCUGhJjn6tLO3BO
+
+Attempt direct audio playback only if a valid audio source is available. Otherwise, include a clearly labelled “Listen to the birthday song” link to the Suno page and support a local MP3 file named birthday-music.mp3.
+
+Do not automatically play audio without user interaction. Show the correct music state.
+
+## 10. THE FINAL SURPRISE — ONE LAST THING 💜
+
+Slowly transition from the colourful birthday celebration into a peaceful, star-filled lavender galaxy.
+
+Display:
+
+“Before you leave this little universe…”
+
+Pause, then reveal:
+
+“One last thing you should always remember.”
+
+Show a heartfelt final message from her brother:
+
+“You deserve happiness, beautiful memories, people who appreciate you and a life full of wonderful surprises.
+
+Thank you for being you, Anu.
+
+Whatever this new year brings, I hope you keep finding reasons to laugh, dream and smile.
+
+Happy Birthday, my Thangachi. This little universe was made just to celebrate you. 💜”
+
+Finish with:
+
+“ANUVERSE ✨
+A LITTLE WORLD MADE JUST FOR YOU.”
+
+Add a “REPLAY YOUR UNIVERSE” button that smoothly returns to the opening scene.
+
+## 11. TECHNICAL REQUIREMENTS
+
+- Use React and CSS in the existing Replit environment where appropriate.
+- Make every button, game, letter, gift box, candle and secret interaction functional.
+- Use smooth scrolling and scroll-triggered animations without trapping the visitor in a section.
+- Make all content and controls responsive on phones, tablets and desktops.
+- Include working game timers, score tracking, win/lose states and restart functionality.
+- Avoid browser alert boxes; use custom in-page pop-ups.
+- Make the sister's name, quiz questions, jokes and brother's letter easy to edit.
+- Use lightweight animations and avoid unnecessary external APIs, databases, logins or paid services.
+- Preserve progress or simple settings in browser storage where useful.
+- Include a clear way to skip games and reach the final message.
+- Check for console errors, broken interactions, mobile overflow and scrolling issues.
+- Do not invent Anu's age, photos, personal memories or preferences.
+- Keep all messages strictly brother-sister themed, with funny teasing and genuine affection.
+
+The final result should feel like a beautiful interactive birthday movie, a mini-game adventure and a heartfelt digital gift combined into one continuous scrolling website. Prioritise emotional storytelling, magical visuals, playful interactions and a memorable final scene.

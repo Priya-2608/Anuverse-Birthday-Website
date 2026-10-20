@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "ANUVERSE"
+description = "A magical, interactive birthday journey made by a brother for his younger sister Anu, with playful mini-games, hidden surprises, a personal letter, and a wish-making celebration."
+version = "1.0.0"
+id = "artifacts/anuverse"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18218
+
+[services.development]
+run = "pnpm --filter @workspace/anuverse run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/anuverse", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/anuverse/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18218"
+BASE_PATH = "/"
